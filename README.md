@@ -6,4 +6,5 @@ This repo contains the configuration to initialize, develop, test and run the Fl
 
 [![Build Status](https://travis-ci.org/takacsmark/flask-sql-ci-docker.svg?branch=master)](https://travis-ci.org/takacsmark/flask-sql-ci-docker)
 
+test
 **This repo is currently work in progress.** Documentation will follow.
